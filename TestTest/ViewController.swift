@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("TestAですTestAです")
+        print("Conflict用")
         // Do any additional setup after loading the view.
     }
 
