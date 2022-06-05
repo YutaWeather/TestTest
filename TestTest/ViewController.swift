@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         print("TestAですTestAです")
         print("Conflict用")
+        print("チェック")
         // Do any additional setup after loading the view.
     }
 
